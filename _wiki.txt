@@ -1,0 +1,624 @@
+{{Short description|Alphabet used to write the Armenian language}}
+{{pp-move}}
+{{Infobox writing system
+| name            = Armenian
+| type            = [[Alphabet]]
+| languages       = [[Armenian language|Armenian]], [[Zok language|Zok]], [[Armeno-Tats#Language|Armeno-Tat]], [[Kurmanji]] (Partial use) and [[Lomavren]]
+| time            = AD 405 to present<ref>{{Cite book |last=Maarten van Lint |first=Theo |url=https://books.google.com/books?id=bzmBxU39PGMC |title=The Oxford History of Historical Writing: Volume 2: 400–1400 |date=2012 |publisher=Oxford University Press |isbn=978-0-19-923642-8 |editor-last=Sarah Foot |pages=180–200 |chapter=From Reciting to Writing and Interpretation: Tendencies, themes, and demarcations of Armenian historical writing |editor-last2=Chase F. Robinson}}</ref>
+| fam1            = [[Egyptian hieroglyphs]]
+| fam2            = [[Proto-Sinaitic script]]
+| fam3            = [[Phoenician alphabet]]
+| fam4            = [[Greek alphabet]]<ref name="Sanjian" />
+| creator         = [[Mesrop Mashtots]]
+| official script = {{Flag|Armenia}}
+| sisters         = {{ubl|[[Latin script|Latin]]|[[Coptic alphabet|Coptic]]|[[Cyrillic alphabet|Cyrillic]]}}
+| children        = {{ubl|[[Armeno-Turkish alphabet|Armeno-Turkish]]|[[Caucasian Albanian alphabet|Caucasian Albanian]]}}<ref>[[Jost Gippert]] (2011).[http://titus.fkidg1.uni-frankfurt.de/personal/jg/pdf/jg2011b.pdf "The script of the Caucasian Albanians in the light of the Sinai palimpsests"]. In Werner Seibt and Johannes Preiser-Kapeller, eds. ''Die Entstehung der kaukasischen Alphabete als kulturhistorisches Phänomen'' [''The Creation of the Caucasian Alphabets as Phenomenon of Cultural History'']. Referate des Internationalen Symposiums (1–4 December 2005). Vienna: Verlag der Österreichischen Akademie der Wissenschaften.</ref><ref>{{Cite book |last=Rayfield |first=Donald |title=The Literature of Georgia: a history |date=2000 |publisher=Curzon |isbn=978-0-7007-1163-5 |edition=2nd |series=Caucasus world |location=Richmond |pages=19 |quote=The Georgian alphabet seems unlikely to have a pre-Christian origin, for the major archaeological monument of the first century 4IX the bilingual Armazi gravestone commemorating Serafua, daughter of the Georgian viceroy of Mtskheta, is inscribed in Greek and Aramaic only. It has been believed, and not only in Armenia, that all the Caucasian alphabets – Armenian, Georgian and Caucaso-Albanian – were invented in the fourth century by the Armenian scholar Mesrop Mashtots.&nbsp;... The Georgian chronicles ''The Life of Kanli'' assert that a Georgian script was invented two centuries before Christ, an assertion unsupported by archaeology. There is a possibility that the Georgians, like many minor nations of the area, wrote in a foreign language – Persian, Aramaic, or Greek – and translated back as they read.}}</ref>
+| sample          = Armenian Alphabet Uppercase lowercase and transcription.svg
+| imagesize       = 300px
+| unicode         = {{ublist |class=nowrap |[https://www.unicode.org/charts/PDF/U0530.pdf U+0530–U+058F] {{smaller|Armenian}} |[https://www.unicode.org/charts/PDF/UFB00.pdf U+FB00–U+FB17] {{smaller|Alphabetic Pres. Forms}}}}
+| iso15924        = Armn
+| footnotes       = 
+}}
+{{Infobox intangible heritage
+| ICH = Armenian letter art and its cultural expressions
+| Image = File:2014 Prowincja Sjunik, Klasztor Tatew (53).jpg
+| Caption = [[Tatev Monastery]], 8th century
+| Countries = [[Armenia]]
+| ID = 01513
+| Region = ENA
+| Year = 2019
+| Session = 14
+| List = Representative
+}}
+{{History of the Armenian language}}
+{{alphabet}}
+The '''Armenian alphabet''' ({{langx|hy|Հայոց գրեր|Hayocʼ grer}} or {{langx|hy|Հայոց այբուբեն|Hayocʼ aybuben|label=none}}) or, more broadly, the '''Armenian script''', is an [[alphabet]]ic writing system developed for [[Armenian language|Armenian]] and occasionally used to write other languages. It was developed around 405&nbsp;AD by [[Mesrop Mashtots]], an Armenian linguist and ecclesiastical leader. The script originally had 36 letters. Eventually, two more were adopted in the 13th century. In the [[Armenian orthography reform|reformed Armenian orthography]] (1920s), the ligature {{langx|hy|[[wikt:և|և]]|ev|label=none}}, is also treated as a letter, bringing the total number of letters to 39.
+
+The Armenian word for 'alphabet' is {{langx|hy|[[wikt:այբուբեն|այբուբեն]]|aybuben|label=none}}, named after the first two letters of the Armenian alphabet: {{angle bracket|{{script|Armn|[[wikt:Ա|Ա]]}}}} {{langx|hy|այբ|[[ayb (Armenian letter)|ayb]]|label=none}}, and {{angle bracket|{{script|Armn|[[wikt:Բ|Բ]]}}}} {{langx|hy|բեն|[[ben (Armenian letter)|ben]]|label=none}}. Armenian is written [[writing system#Directionality|horizontally, left to right]].<ref name="omniglot" />{{Contains special characters|Armenian}}
+
+==History and development==
+{{Main|History of the Armenian alphabet}}
+=== Possible antecedents ===
+{{More citations needed|section|date=December 2023}}
+One account of the existence of an Armenian alphabet before Mesrop Mashtots comes from the third century Roman theologian, [[Hippolytus of Rome]] (170–235), in his ''Chronicle'', while writing about his contemporary, Emperor [[Severus Alexander]] ({{reign|222|235}}), mentions that the Armenians are amongst those nations who have their own distinct alphabet.<ref>{{Cite journal |last=Hilkens |first=Andy |date=2020 |title=Language, Literacy and Historical Apologetics: Hippolytus of Rome's lists of literate peoples in the Syriac tradition |url=https://www.academia.edu/43332985 |journal=Journal of Eastern Christian Studies |volume=72 |issue=1–2 |pages=1–32}}</ref>
+
+[[Philostratus|Philostratus the Athenian]], a [[sophist]] of the second and third centuries, wrote:{{blockquote|And they say that a leopardess was once caught in [[Pamphylia]] which was wearing a chain round its neck, and the chain was of gold, and on it was inscribed in Armenian lettering: "The [[Arsacid dynasty of Armenia|king Arsaces]] to the [[Nagara (ancient city)|Nysian]] god".<ref>Philostratus, ''The Life of Apollonius of Tyana'', Book II, Chapter II, pp. 120–121, tr. by F. c. Conybeare, 1912</ref>}}
+
+According to the fifth-century Armenian historian [[Movses Khorenatsi]], [[Bardesanes of Edessa]] (AD 154–222), who founded the [[gnosticism|Gnostic]] current of the [[Bardaisanites]], went to the Armenian castle of [[Kemah, Erzincan|Ani]] and there read the work of a pre-Christian Armenian priest named Voghyump, written in the {{ill|Mithraic (writing system)|lt=Mithraic|hy|Մեհենագիր}}{{efn|Alternatively, Mehean or Mihrean.}} script of the Armenian temples, named after [[Mihr (Armenian deity)|Mihr]], the [[Armenian mythology|Armenian national god]] of light, truth, and the sun. In Voghyump's work, amongst other histories, an episode was noted of the Armenian King [[Tigranes VII]] (who reigned from 144 to 161, and again from AD 164–186) erecting a monument on the tomb of his brother, the Mithraic High Priest of the [[Kingdom of Armenia (antiquity)|Kingdom of Greater Armenia]], Mazhan. Movses of Khoren notes that Bardesanes translated this Armenian book into [[Syriac language|Syriac]] ([[Aramaic]]), and later also into [[Koine Greek|Greek]].{{citation needed|date=October 2019}} Another important evidence for the existence of a pre-Mashtotsian alphabet is the fact that the pantheon of the ancient Armenians included [[Tir (god)|Tir]], who was the patron god of writing and science.
+
+A 13th-century Armenian historian, [[Vardan Areveltsi]], in his ''History'', notes "that an Armenian script existed of old is attested" during the reign of King [[Leo I, King of Armenia|Leo the Magnificent]] ({{reign|1187|1219}}), after coins naming idolatrous kings were found stamped with the script.<ref>{{Cite book |last1=Arewelts'i |first1=Vardan |url=https://archive.org/details/ThomsonVardanAreweltsi |title=The Historical Compilation of Vardan Arewelts'i |last2=Thomson |first2=Robert W. |publisher=Dumbarton Oaks Papers |year=1989 |edition=Vol. 43 |pages=167–168 |language=English}}</ref>
+
+The evidence that the Armenian scholars of the Middle Ages knew about the existence of a pre-Mashtotsian alphabet can also be found in other medieval works, including the first book composed in the Mashtotsian alphabet by the pupil of Mashtots, Koriwn, in the first half of the fifth century. Koriwn notes that Mashtots was told of the existence of ancient Armenian letters which he was initially trying to integrate into his own alphabet.<ref>{{Cite web |title=ԳԻՐՔ |url=https://www.scribd.com/document/236975940/%D4%B3%D4%BB%D5%90%D5%94 |website=Scribd}}</ref>
+
+===Creation by Mashtots===
+{{See also|Sinai Armenian inscriptions}}
+[[File:Yereruyk basilica cathedral 02.jpg|thumb|upright=0.9|Armenian inscription from [[Yererouk|Yererouk Basilica]], 5th century]]
+[[File:Armenian cross from Jerusalem.jpg|thumb|upright=0.9|[[Armenian cross]] from [[Jerusalem]], 5–6th centuries]]
+[[File:Armenian mosaic-inscr at Jerusalem.jpg|thumb|upright=0.9|[[Birds Mosaic (Jerusalem)|Armenian script-puzzle]] in [[Jerusalem]]. It is dated to the second half of the [[VII century]]]]
+The Armenian alphabet was introduced by [[Mesrop Mashtots]] and [[Isaac of Armenia]] (Sahak Partev) in CE 405. Medieval Armenian sources also claim that Mashtots invented the [[Georgian alphabet|Georgian]] and [[Caucasian Albanian alphabet|Caucasian Albanian]] alphabets around the same time. However, most scholars link the creation of the Georgian script to the process of [[Christianization of Iberia]], a core Georgian kingdom of [[Kartli]].<ref name="Hewitt">{{Cite book |last=Hewitt |first=B. g. |url=https://books.google.com/books?id=MUBtUcqOF-AC&pg=PA4 |title=Georgian. a Structural Reference Grammar |publisher=John Benjamins Publishing |year=1995 |isbn=978-90-272-3802-3 |page=4 |access-date=19 September 2013}}</ref> The alphabet was therefore most probably created between the conversion of Iberia under [[Mirian III of Iberia|Mirian III]] (326 or 337) and the [[Bir el Qutt inscriptions]] of 430,<ref name="Hewitt" /> contemporaneously with the Armenian alphabet.<ref>{{Cite book |last1=Barbara A. West |url=https://books.google.com/books?id=pCiNqFj3MQsC |title=Encyclopedia of the Peoples of Asia |last2=Oceania |date=19 May 2010 |publisher=Infobase |isbn=9781438119137 |page=230 |quote=Archaeological work in the last decade has confirmed that a Georgian alphabet did exist very early in Georgia's history, with the first examples being dated from the '''fifth century''' C.E.}}</ref> Traditionally, the following phrase translated from Solomon's ''[[Book of Proverbs]]'' is said to be the first sentence to be written down in Armenian by Mashtots:
+{{Blockquote|{{lang|hy|[[:wikt:ճանաչել զիմաստութիւն եւ զխրատ, իմանալ զբանս հանճարոյ|Ճանաչել զիմաստութիւն եւ զխրատ, իմանալ զբանս հանճարոյ]]:}}<br />{{Transliteration|hy|Čanačʿel zimastutʿiun yev zxrat, imanal zbans hančaroy.}}<br />To know wisdom and instruction; to perceive the words of understanding.|sign=''[[Book of Proverbs]]'', 1:2.}}
+
+Various scripts have been credited with being the prototype for the Armenian alphabet. [[Pahlavi scripts|Pahlavi]] was the priestly script in Armenia before the introduction of Christianity, and [[Syriac alphabet|Syriac]], along with Greek, was one of the alphabets of Christian scripture. Armenian shows some similarities to both. However, the general consensus is that Armenian is modeled after the [[Greek alphabet]], supplemented with letters from a different source or sources for Armenian sounds not found in Greek. This is suggested by the Greek order of the Armenian alphabet; the ''ow'' ligature for the vowel {{IPAslink|u}}, as in Greek; the similarity of the letter {{lang|hy|ի|}} {{IPA|/i/}} in shape and sound value to [[Cyrillic]] [[И]][[и]] and [[Greek alphabet#Sound values|(Modern) Greek]] [[Η]][[η]]; and the shapes of letters which "seem derived from a variety of cursive Greek", including Greek/Armenian pairs {{Script|Greek|Θ}}/{{Lang|hy|թ}}, {{Script|Greek|Φ}}/{{Lang|hy|փ}}, and {{Script|Greek|Β}}/{{Lang|hy|բ}}.<ref name="Sanjian">{{Cite book |last=Sanjian |first=Avedis |title=The World's Writing Systems |year=1996 |editor-last=Daniels |pages=356–357 |chapter=The Armenian Alphabet |editor-last2=Bright}}</ref> It has been speculated by some scholars in African studies, following Dimitri Olderogge, that the [[Ge'ez script]] had an influence on certain letter shapes,<ref>{{Cite book |last=Pankhurst |first=Richard |title=The Ethiopians. a History |date=1998 |pages=25}}</ref> but this has not been supported by any experts in Armenian studies.
+
+There are four principal calligraphic [[hand (writing style)|hand]]s of the script. {{Transliteration|hy|Erkatagir}}, or 'ironclad letters', seen as Mesrop's original, was used in manuscripts from the 5th to 13th century and is still preferred for epigraphic inscriptions. {{Transliteration|hy|Bolorgir}}, or 'cursive', was invented in the 10th century and became popular in the 13th. It has been the standard printed form since the 16th century. {{Transliteration|hy|Notrgir}}, or 'minuscule', invented initially for speed, was extensively used in the Armenian diaspora in the 16th to 18th centuries, and later became popular in printing. {{Transliteration|hy|Sheghagir}}, or 'slanted writing', is now the most common form.
+
+The earliest known example of the script's usage was a dedicatory inscription over the west door of the [[Tekor Basilica|church of Saint Sarkis in Tekor]]. Based on the known individuals mentioned in the inscription, it has been dated to the 480s.<ref>{{Cite book |last1=Donabedian |first1=Patrick |title=Armenian Art |last2=Thierry |first2=Jean-Michel |date=1989 |publisher=H.N. Abrams in association with Prelacy of the Armenian Apostolic Church of America-Catholicosate of Cilicia |isbn=0-8109-0625-2 |location=New York |page=584 |oclc=19555773}}</ref>{{Better source needed|date=March 2023}} The earliest known surviving example of usage outside of Armenia is a mid-6th century mosaic inscription in the chapel of St Polyeuctos in Jerusalem.<ref>{{Citation |last=Nersessian |first=Vreg |title=Treasure From the Ark |date=2001 |pages=36–37 |place=London |publisher=The British Library}}</ref>{{better source needed|date=March 2023}} [[Armeno-Greek papyrus|A papyrus discovered in 1892]] at [[Fayyum]] and containing Greek words written in Armenian script has been dated on historical grounds to after the creation of the script, i.e. after 400, and on paleographic grounds between the 5th and 7th centuries.<ref>{{Cite journal |last=Clackson |first=James |date=2000 |title=A Greek Papyrus in Armenian Script |url=http://www.uni-koeln.de/phil-fak/ifa/zpe/downloads/2000/129pdf/129223.pdf |journal=Zeitschrift für Papyrologie und Epigraphik |publisher=Dr R. Habelt Gmbh |issue=129 |archive-url=https://web.archive.org/web/20200719223141/http://www.uni-koeln.de/phil-fak/ifa/zpe/downloads/2000/129pdf/129223.pdf |archive-date=July 19, 2020 |via=University of Köln}}</ref> It is now in the [[Bibliotheque Nationale de France]].<ref>{{Cite book |last=Kouymjian |first=Dickran |title=Proceedings of the Fifth International Conference on Armenian Linguistics |year=1996 |pages=381–386 |chapter=Unique Armenian Papyrus}}</ref> The earliest surviving manuscripts written in Armenian using Armenian script date from the 9th–10th century.<ref>{{Cite encyclopedia |title=Armenian alphabet &#124; writing system &#124; Britannica |encyclopedia=[[Encyclopædia Britannica]] |date=11 June 2024 |url=https://www.britannica.com/topic/Armenian-alphabet}}</ref>
+
+=== Later development ===
+{{More citations needed|section|date=December 2023}}
+Certain shifts in the language were at first not reflected in the orthography. The digraph {{Lang|hy|աւ}} (''au'') followed by a consonant used to be pronounced [au] (as in ''lu'''au''''') in [[Classical Armenian]], but due to a [[sound shift]] it came to be pronounced {{IPA|[o]}}, and has since the 13th century been written {{Lang|hy|օ}} (''ō''). For example, classical {{Lang|hy|[[:wikt:աւր|աւր]]}} ({{Transliteration|hy|awr}}, {{IPA|[auɹ]|lang=hy}}, 'day') became pronounced {{IPA|[oɹ]|lang=hy}}, and is now written {{Lang|hy|[[:wikt:օր|օր]]}} ({{Transliteration|hy|ōr}}). (One word has kept ''aw'', now pronounced {{IPA|/av/}}: {{Lang|hy|[[:wikt:աղաւնի|աղաւնի]]}} ({{Transliteration|hy|ałavni}}) 'pigeon', and there are a few proper names still having ''aw'' before a consonant: {{Lang|hy|Տաւրոս}} Tauros, {{Lang|hy|Փաւստոս}} Faustos, etc.) For this reason, today there are native Armenian words beginning with the letter {{Lang|hy|օ}} (''ō'') although this letter was taken from the Greek alphabet to write foreign words beginning with ''o'' {{IPA|[o]}}.
+
+The number and order of the letters have changed over time. In the Middle Ages, two new letters ({{Lang|hy|օ}} {{IPA|[o]}}, {{Lang|hy|ֆ}} {{IPA|[f]}}) were introduced in order to better represent foreign sounds; this increased the number of letters from 36 to 38. From 1922 to 1924, [[Soviet Armenia]] adopted a [[Spelling reform of the Armenian language 1922–1924|reformed spelling]] of the Armenian language. The reform changed the digraph {{Lang|hy|ու}} and the ligature {{Lang|hy|և}} into two new letters, but it generally did not change the pronunciation of individual letters ([[#Chart notes|see the footnotes of the chart]]). Those outside of the (former) [[Post-Soviet states|Soviet sphere]], including all Western Armenians as well as Eastern Armenians in [[Iran]], have rejected the reformed spellings and continue to use the [[Classical Armenian orthography|traditional Armenian orthography]]. They criticize some aspects of the reforms and allege political motives behind them.{{citation needed|date=April 2023}}
+
+== Alphabet ==
+
+{| class="wikitable sortable" style="text-align: center;"
+! rowspan="3" | Forms
+! colspan="5" | Name
+! colspan="5" | Letter
+! rowspan="3" | [[Armenian numerals|Numerical<br>value]]
+|-
+! rowspan="2" | [[Classical Armenian orthography|Classical]]
+! rowspan="2" | [[Spelling reform of the Armenian language 1922-1924|Reformed]]
+! colspan="3" | [[Help:IPA/Armenian|Pronunciation]]
+! colspan="3" | [[Help:IPA/Armenian|Pronunciation]]
+! colspan="2" | [[Romanization of Armenian|Transliteration]]
+|-
+! | Classical
+! | Eastern
+! | Western
+! | Classical
+! | Eastern
+! | Western
+! | Classical
+! | [[ISO 9985]]
+|----
+|style="font-size:133%;"|<span class="nounderlines">[[Ayb (letter)|Ա]] • ա</span>
+| colspan="2" | {{Lang|hy|այբ}}   {{Transliteration|hy|ayb}}
+| colspan="2" | {{IPA|/ɑjb/|lang=hy}} || {{IPA|/ɑjpʰ/|lang=hy}}
+| colspan="3" | {{IPA|[[Open back unrounded vowel|/ɑ/]]}}
+| colspan="2" | {{transliteration|hy|a}}
+| 1
+|----
+|style="font-size:133%;"|<span class="nounderlines">[[Ben (letter)|Բ]] • բ</span>
+| colspan="2" | {{Lang|hy|բեն}}   {{Transliteration|hy|ben}}
+| colspan="2" | {{IPA|/bɛn/|lang=hy}} || {{IPA|/pʰɛn/|lang=hy}}
+| colspan="2" | {{IPA|[[Voiced bilabial plosive|/b/]]}} || {{IPA|[[Aspirated consonant|/pʰ/]]}}
+| colspan="2" | {{transliteration|hy|b}}
+| 2
+|----
+|style="font-size:133%;"|<span class="nounderlines">[[Gim (Armenian letter)|Գ]] • գ</span>
+| colspan="2" | {{Lang|hy|գիմ}}   {{Transliteration|hy|gim}}
+| colspan="2" | {{IPA|/ɡim/|lang=hy}} || {{IPA|/kʰim/|lang=hy}}
+| colspan="2" | {{IPA|[[Voiced velar plosive|/ɡ/]]}} || {{IPA|[[Aspirated consonant|/kʰ/]]}}
+| colspan="2" | {{transliteration|hy|g}}
+| 3
+|----
+|style="font-size:133%;"|<span class="nounderlines">[[Da (Armenian letter)|Դ]] • դ</span>
+| colspan="2" | {{Lang|hy|դա}}   {{Transliteration|hy|da}}
+| colspan="2" | {{IPA|/dɑ/|lang=hy}} || {{IPA|/tʰɑ/|lang=hy}}
+| colspan="2" | {{IPA|[[Voiced dental and alveolar plosives|/d/]]}} || {{IPA|[[Aspirated consonant|/tʰ/]]}}
+| colspan="2" | {{transliteration|hy|d}}
+| 4
+|----
+|style="font-size:133%;"|<span class="nounderlines">[[Ե]] • ե</span>
+| colspan="2" | {{Lang|hy|եչ}}   {{Transliteration|hy|yečʼ}}
+| {{IPA|/ɛtʃʰ/|lang=hy}}
+| colspan="2" | {{IPA|/jɛtʃʰ/|lang=hy}}
+| {{IPA|[[Open-mid front unrounded vowel|/ɛ/]]}}
+| colspan="2" | {{IPA|[[Open-mid front unrounded vowel|/ɛ/]]}}, word-initially {{IPA|/jɛ/}}{{ref|f|6}}
+| colspan="2" | {{transliteration|hy|e}}
+| 5
+|----
+|style="font-size:133%;"|<span class="nounderlines">[[Za (Armenian letter)|Զ]] • զ</span>
+| colspan="2" | {{Lang|hy|զա}}   {{Transliteration|hy|za}}
+| colspan="3" | {{IPA|/zɑ/|lang=hy}}
+| colspan="3" | {{IPA|[[Voiced alveolar fricative|/z/]]}}
+| colspan="2" | {{transliteration|hy|z}}
+| 6
+|----
+|style="font-size:133%;"|<span class="nounderlines">[[Eh (Armenian letter)|Է]] • է</span>
+| colspan="2" | {{Lang|hy|է}}   {{Transliteration|hy|ē}}{{ref|a|1}}
+| {{IPA|/e/|lang=hy}} || colspan="2" | {{IPA|/ɛ/|lang=hy}}
+| {{IPA|[[Close-mid front unrounded vowel|/e/]]}} || colspan="2" |{{IPA|/ɛ/}}
+| {{transliteration|hy|ê}}
+| {{transliteration|hy|ē}}
+| 7
+|----
+|style="font-size:133%;"|<span class="nounderlines">[[Ը]] • ը</span>{{ref|g|7}}
+| colspan="2" | {{Lang|hy|ըթ}}   {{Transliteration|hy|ëtʼ}}
+| colspan="3" | {{IPA|/ətʰ/|lang=hy}}
+| colspan="3" | {{IPA|[[Mid central vowel|/ə/]]}}
+|{{transliteration|hy|ə}} || {{transliteration|hy|ë}}
+| 8
+|----
+|style="font-size:133%;"|<span class="nounderlines">[[Թ]] • թ</span>
+| colspan="2" | {{Lang|hy|թո}} {{Transliteration|hy|tʼo}}
+| colspan="3" | {{IPA|/tʰɔ/|lang=hy}}
+| colspan="3" | {{IPA|[[Aspirated consonant|/tʰ/]]}}
+| {{transliteration|hy|{{nowrap|t̔, tʿ}}}} || {{transliteration|hy|ṫ}}
+| 9
+|----
+|style="font-size:133%;"|<span class="nounderlines">[[Zhe (Armenian letter)|Ժ]] • ժ</span>
+| {{Lang|hy|ժէ}} {{Transliteration|hy|žē}}|| {{Lang|hy|ժե}} {{Transliteration|hy|že}}
+| {{IPA|/ʒe/|lang=hy}} || colspan="2" | {{IPA|/ʒɛ/|lang=hy}}
+| colspan="3" | {{IPA|[[Voiced postalveolar fricative|/ʒ/]]}}
+| colspan="2" | {{transliteration|hy|ž}}
+| 10
+|----
+|style="font-size:133%;"|<span class="nounderlines">[[Ի]] • ի</span>
+| colspan="2" | {{Lang|hy|ինի}}   {{Transliteration|hy|ini}}
+| colspan="3" | {{IPA|/ini/|lang=hy}}
+| colspan="3" | {{IPA|[[Close front unrounded vowel|/i/]]}}
+| colspan="2" | {{transliteration|hy|i}}
+| 20
+|----
+|style="font-size:133%;"|<span class="nounderlines">[[Lyun (Armenian letter)|Լ]] • լ</span>
+| {{Lang|hy|լիւն}} {{Transliteration|hy|liwn}} || {{Lang|hy|լյուն}} {{Transliteration|hy|lyun}}
+| {{IPA|/liwn/|lang=hy}} || {{IPA|/ljun/|lang=hy}} || {{IPA|/lʏn/|lang=hy}}
+| colspan="3" | {{IPA|[[Voiced dental, alveolar and postalveolar lateral approximants|/l/]]}}
+| colspan="2" | {{transliteration|hy|l}}
+| 30
+|----
+|style="font-size:133%;"|<span class="nounderlines">[[Xe (Armenian letter)|Խ]] • խ</span>
+| {{Lang|hy|խէ}} {{Transliteration|hy|xē}} || {{Lang|hy|խե}} {{Transliteration|hy|xe}}
+| {{IPA|/χe/|lang=hy}} || colspan="2" | {{IPA|/χɛ/|lang=hy}}
+| colspan="3" | {{IPA|[[Voiceless uvular fricative|/χ/]]}}
+| colspan="2" | {{transliteration|hy|x}}
+| 40
+|----
+|style="font-size:133%;"|<span class="nounderlines">[[Tsa (Armenian letter)|Ծ]] • ծ</span>
+| colspan="2" | {{Lang|hy|ծա}}   {{Transliteration|hy|ca}}
+| colspan="2" | {{IPA|/tsɑ/|lang=hy}} || {{IPA|/dzɑ/|lang=hy}}
+| colspan="2" | {{IPA|[[Voiceless alveolar affricate|/ts/]]}} || {{IPA|[[Voiced alveolar affricate|/dz/]]}}
+| {{Transliteration|hy|c}} || {{Transliteration|hy|ç}}
+| 50
+|----
+|style="font-size:133%;"|<span class="nounderlines">[[Ken (Armenian letter)|Կ]] • կ</span>
+| colspan="2" | {{Lang|hy|կեն}}   {{Transliteration|hy|ken}}
+| colspan="2" | {{IPA|/kɛn/|lang=hy}} || {{IPA|/ɡɛn/|lang=hy}}
+| colspan="2" | {{IPA|[[Voiceless velar plosive|/k/]]}} || {{IPA|[[Voiced velar plosive|/ɡ/]]}}
+| colspan="2" | {{transliteration|hy|k}}
+| 60
+|----
+|style="font-size:133%;"|<span class="nounderlines">[[Ho (Armenian letter)|Հ]] • հ</span>
+| colspan="2" | {{Lang|hy|հո}} {{Transliteration|hy|ho}}
+| colspan="3" | {{IPA|/ho/|lang=hy}}
+| colspan="3" | {{IPA|[[Voiceless glottal fricative|/h/]]}}
+| colspan="2" | {{transliteration|hy|h}}
+| 70
+|----
+|style="font-size:133%;"|<span class="nounderlines">[[Dza (Armenian letter)|Ձ]] • ձ</span>
+| colspan="2" | {{Lang|hy|ձա}}   {{Transliteration|hy|ja}}
+| colspan="2" | {{IPA|/dzɑ/|lang=hy}} || {{IPA|/tsʰɑ/|lang=hy}}
+| colspan="2" | {{IPA|[[Voiced alveolar affricate|/dz/]]}} || {{IPA|[[Aspirated consonant|/tsʰ/]]}}
+| colspan="2" | {{transliteration|hy|j}}
+| 80
+|----
+|style="font-size:133%;"|<span class="nounderlines">[[Ghat (Armenian letter)|Ղ]] • ղ</span>
+| colspan="2" | {{Lang|hy|ղատ}}   {{Transliteration|hy|ġat}}
+| {{IPA|/ɫɑt/|lang=hy}} ||{{IPA|/ʁɑt/|lang=hy}} || {{IPA|/ʁɑd/|lang=hy}}
+| {{IPA|[[Voiced dental, alveolar and postalveolar lateral approximants|/ɫ/]]}} || colspan="2" | {{IPA|[[Voiced uvular fricative|/ʁ/]]}}
+| {{transliteration|hy|ł}} || {{transliteration|hy|ġ}}
+| 90
+|----
+|style="font-size:133%;"|<span class="nounderlines">[[Che (Armenian letter)|Ճ]] • ճ</span>
+| {{Lang|hy|ճէ}} {{Transliteration|hy|čē}} || {{Lang|hy|ճե}} {{Transliteration|hy|če}}
+| {{IPA|/tʃe/|lang=hy}} || {{IPA|/tʃɛ/|lang=hy}} || {{IPA|/dʒɛ/|lang=hy}}
+| colspan="2" | {{IPA|[[Voiceless postalveolar affricate|/tʃ/]]}} || {{IPA|[[Voiced alveolar affricate|/dʒ/]]}}
+| colspan="2" | {{transliteration|hy|č}}
+| 100
+|----
+|style="font-size:133%;"|<span class="nounderlines">[[Men (Armenian letter)|Մ]] • մ</span>
+| colspan="2" | {{Lang|hy|մեն}}   {{Transliteration|hy|men}}
+| colspan="3" | {{IPA|/mɛn/|lang=hy}}
+| colspan="3" | {{IPA|[[Voiced bilabial nasal|/m/]]}}
+| colspan="2" | {{transliteration|hy|m}}
+| 200
+|----
+|style="font-size:133%;"|<span class="nounderlines">[[Hi (Armenian letter)|Յ]] • յ</span>
+| {{Lang|hy|յի}} {{Transliteration|hy|yi}} || {{Lang|hy|հի}} {{Transliteration|hy|hi}}
+| {{IPA|/ji/|lang=hy}} || colspan="2" | {{IPA|/hi/|lang=hy}}
+| {{IPA|[[Voiced palatal approximant|/j/]]}} || colspan="2" | {{IPA|[[Voiceless glottal fricative|/h/]]}}{{ref|a|1}}, {{IPA|[[Voiced palatal approximant|/j/]]}}
+| colspan="2" | {{transliteration|hy|y}}
+| 300
+|----
+|style="font-size:133%;"|<span class="nounderlines">[[Nu (Armenian letter)|Ն]] • ն</span>
+| colspan="2" | {{Lang|hy|նու}}   {{Transliteration|hy|nu}}
+| colspan="3" | {{IPA|/nu/|lang=hy}}
+| colspan="3" | {{IPA|[[Voiced dental, alveolar and postalveolar nasals|/n/]], [[Voiced velar nasal|/ŋ/]]}}
+| colspan="2" | {{transliteration|hy|n}}
+| 400
+|----
+|style="font-size:133%;"|<span class="nounderlines">[[Sha (Armenian letter)|Շ]] • շ</span>
+| colspan="2" | {{Lang|hy|շա}}   {{Transliteration|hy|ša}}
+| colspan="3" | {{IPA|/ʃɑ/|lang=hy}}
+| colspan="3" | {{IPA|[[Voiceless postalveolar fricative|/ʃ/]]}}
+| colspan="2" | {{transliteration|hy|š}}
+| 500
+|----
+|style="font-size:133%;"|<span class="nounderlines">[[Vo (letter)|Ո]] • ո</span>
+| {{Lang|hy|ո}}   {{Transliteration|hy|o}}
+|{{Lang|hy|ո}}   {{Transliteration|hy|vo}}
+| {{IPA|/ɔ/|lang=hy}} || colspan="2" | {{IPA|/ʋɔ/|lang=hy}}
+| {{IPA|[[Open-mid back rounded vowel|/ɔ/]]}}
+| colspan="2" | {{IPA|[[Open-mid back rounded vowel|/ɔ/]]}}, word-initially {{IPA|/ʋɔ/}}{{ref|b|2}}
+| colspan="2" | {{transliteration|hy|o}}
+| 600
+|----
+|style="font-size:133%;"|<span class="nounderlines">[[Cha (Armenian letter)|Չ]] • չ</span>
+| colspan="2" | {{Lang|hy|չա}} {{Transliteration|hy|čʼa}}
+| colspan="3" | {{IPA|/tʃʰɑ/|lang=hy}}
+| colspan="3" | {{IPA|[[Palato-alveolar ejective affricate|/tʃʰ/]]}}
+| {{transliteration|hy|{{nowrap|č̔, čʿ}}}} || {{transliteration|hy|ċ}}
+| 700
+|----
+|style="font-size:133%;"|<span class="nounderlines">[[Պ]] • պ</span>
+| {{Lang|hy|պէ}} {{Transliteration|hy|pē}} || {{Lang|hy|պե}} {{Transliteration|hy|pe}}
+| {{IPA|/pe/|lang=hy}} || {{IPA|/pɛ/|lang=hy}} || {{IPA|/bɛ/|lang=hy}}
+| colspan="2" | {{IPA|[[Voiceless bilabial plosive|/p/]]}} || {{IPA|[[Voiced bilabial plosive|/b/]]}}
+| colspan="2" | {{transliteration|hy|p}}
+| 800
+|----
+|style="font-size:133%;"|<span class="nounderlines">[[Je (Armenian letter)|Ջ]] • ջ</span>
+| {{Lang|hy|ջէ}} {{Transliteration|hy|ǰē}} || {{Lang|hy|ջե}} {{Transliteration|hy|ǰe}}
+| {{IPA|/dʒe/|lang=hy}} || {{IPA|/dʒɛ/|lang=hy}} || {{IPA|/tʃʰɛ/|lang=hy}}
+| colspan="2" | {{IPA|[[Voiced postalveolar affricate|/dʒ/]]}} || {{IPA|[[Aspirated consonant|/tʃʰ/]]}}
+| colspan="2" | {{transliteration|hy|ǰ}}
+| 900
+|----
+|style="font-size:133%;"|<span class="nounderlines">[[Ra (Armenian letter)|Ռ]] • ռ</span>
+| colspan="2" | {{Lang|hy|ռա}}   {{Transliteration|hy|ṙa}}
+| colspan="2" | {{IPA|/rɑ/|lang=hy}} || {{IPA|/ɾɑ/|lang=hy}}
+| colspan="2" | {{IPA|[[Voiced dental, alveolar and postalveolar trills|/r/]]}} || {{IPA|[[Voiced dental and alveolar taps and flaps|/ɾ/]]}}
+| colspan="2" | {{transliteration|hy|ṙ}}
+| 1000
+|----
+|style="font-size:133%;"|<span class="nounderlines">[[Ս]] • ս</span>
+| {{Lang|hy|սէ}} {{Transliteration|hy|sē}} || {{Lang|hy|սե}} {{Transliteration|hy|se}}
+| {{IPA|/se/|lang=hy}} || colspan="2" | {{IPA|/sɛ/|lang=hy}}
+| colspan="3" | {{IPA|[[Voiceless alveolar fricative|/s/]]}}
+| colspan="2" | {{transliteration|hy|s}}
+| 2000
+|----
+|style="font-size:133%;"|<span class="nounderlines">[[Vev (Armenian letter)|Վ]] • վ</span>
+| {{Lang|hy|վեւ}} {{Transliteration|hy|vew}} || {{Lang|hy|վեվ}} {{Transliteration|hy|vev}}
+| {{IPA|/wɛw/|lang=hy}}
+| colspan="2" | {{IPA|/vɛv/|lang=hy}}
+| {{IPA|[[Voiced labial-velar approximant|/w/]]}}
+| colspan="2" | {{IPA|[[Voiced labiodental fricative|/v/]]}}
+| colspan="2" | {{transliteration|hy|v}}
+| 3000
+|----
+|style="font-size:133%;"|<span class="nounderlines">[[Տ]] • տ</span>
+| {{Lang|hy|տիւն}} {{Transliteration|hy|tiwn}} || {{Lang|hy|տյուն}} {{Transliteration|hy|tyun}}
+| {{IPA|/tiwn/|lang=hy}} || {{IPA|/tjun/|lang=hy}} || {{IPA|/dʏn/|lang=hy}}
+| colspan="2" | {{IPA|[[Voiceless dental and alveolar plosives|/t/]]}} || {{IPA|[[Voiced dental and alveolar plosives|/d/]]}}
+| colspan="2" | {{transliteration|hy|t}}
+| 4000
+|----
+|style="font-size:133%;"|<span class="nounderlines">[[Re (Armenian letter)|Ր]] • ր</span>
+| {{Lang|hy|րէ}} {{Transliteration|hy|rē}} || {{Lang|hy|րե}} {{Transliteration|hy|re}}
+| {{IPA|/ɹe/|lang=hy}}
+| colspan="2"| {{IPA|/ɾɛ/|lang=hy}}{{ref|c|3}}
+| {{IPA|[[Voiced alveolar and postalveolar approximants|/ɹ/]]}}
+| colspan="2" | {{IPA|[[Voiced dental and alveolar taps and flaps|/ɾ/]]}}{{ref|c|3}}
+| colspan="2" | ''r''
+| 5000
+|----
+|style="font-size:133%;"|<span class="nounderlines">[[Co (Armenian letter)|Ց]] • ց</span>
+| colspan="2" | {{Lang|hy|ցո}} {{Transliteration|hy|cʼo}}
+| colspan="3" | {{IPA|/tsʰɔ/|lang=hy}}
+| colspan="3" | {{IPA|[[Aspirated consonant|/tsʰ/]]}}
+| {{transliteration|hy|{{nowrap|c̔, cʿ}}}} || {{transliteration|hy|ć}}
+| 6000
+|----
+|style="font-size:133%;"|<span class="nounderlines">[[Hyun (Armenian letter)|Ւ]] • ւ</span>
+| {{Lang|hy|հիւն}} {{Transliteration|hy|hiwn}} || {{Lang|hy|հյուն}} {{Transliteration|hy|hyun}}, {{Lang|hy|վյուն}} {{Transliteration|hy|vyun}}{{ref|e|5}}
+| {{IPA|/hiwn/|lang=hy}} || {{IPA|/hjun/|lang=hy}}, {{IPA|/vjun/|lang=hy}}|| {{IPA|/hʏn/|lang=hy}}
+| {{IPA|[[Voiced labial–velar approximant|/w/]]}} || — || {{IPA|[[Voiced labiodental fricative|/v/]]}}{{ref|e|5}}
+| colspan="2" | {{transliteration|hy|w}}
+| 7000
+|----
+|style="font-size:133%;" width="100%"|<span class="nounderlines">[[U (Armenian letter)|Ու]] • ու</span>
+| — || {{Lang|hy|ու}}{{ref|d|4}}   {{Transliteration|hy|u}}
+| — || {{IPA|/u/|lang=hy}} || —
+| — || {{IPA|[[Close back rounded vowel|/u/]]}} || —
+| {{transliteration|hy|u}}
+| {{transliteration|hy|ow}}
+| -{{ref|i|9}}
+|----
+|style="font-size:133%;"|<span class="nounderlines">[[Փ]] • փ</span>
+| {{Lang|hy|փիւր}} {{Transliteration|hy|pʼiwr}} || {{Lang|hy|փյուր}} {{Transliteration|hy|p'yur}}
+| {{IPA|/pʰiwɹ/|lang=hy}} || {{IPA|/pʰjuɹ/|lang=hy}} || {{IPA|/pʰʏɾ/|lang=hy}}
+| colspan="3" | {{IPA|[[Aspirated consonant|/pʰ/]]}}
+| {{transliteration|hy|{{nowrap|p̔, pʿ}}}} || {{transliteration|hy|ṕ}}
+| 8000
+|----
+|style="font-size:133%;"|<span class="nounderlines">[[Ke (Armenian letter)|Ք]] • ք</span>
+| {{Lang|hy|քէ}} {{Transliteration|hy|kʼē}} || {{Lang|hy|քե}} {{Transliteration|hy|kʼe}}
+| {{IPA|/kʰe/|lang=hy}} || colspan="2" | {{IPA|/kʰɛ/|lang=hy}}
+| colspan="3" | {{IPA|[[Aspirated consonant|/kʰ/]]}}
+| {{transliteration|hy|{{nowrap|k̔, kʿ}}}} || {{transliteration|hy|ḱ}}
+| 9000
+|----
+|style="font-size:133%;"|<span class="nounderlines">[[O (Armenian letter)|Օ]] • օ</span>
+| colspan="2" | {{Lang|hy|օ}}   {{Transliteration|hy|ò}}{{ref|a|1}}
+| — || colspan="2" | {{IPA|/o/|lang=hy}}
+| — || colspan="2" | {{IPA|[[Close-mid back rounded vowel|/o/]]}}
+| {{transliteration|hy|ô}} || {{transliteration|hy|ò}}
+| -{{ref|i|9}}
+|----
+|style="font-size:133%;"|<span class="nounderlines">[[Fe (Armenian letter)|Ֆ]] • ֆ</span>
+| {{Lang|hy|ֆէ}} {{Transliteration|hy|fē}} || {{Lang|hy|ֆե}} {{Transliteration|hy|fe}}
+| — || colspan="2" | {{IPA|/fɛ/|lang=hy}}
+| — || colspan="2" | {{IPA|[[Voiceless labiodental fricative|/f/]]}}
+| colspan="2" | {{transliteration|hy|f}}
+| -{{ref|i|9}}
+|----
+|style="font-size:133%;"|<span class="nounderlines">[[Yew (Armenian letter)|և]]</span>
+| — || {{Lang|hy|և}}{{ref|d|4}}<sup>,</sup>{{ref|h|8}}   {{Transliteration|hy|yew}}
+| — || colspan="2" | {{IPA|/jɛv/|lang=hy}}
+| — || colspan="2" | {{IPA|/ɛv/|lang=hy}}, word-initially {{IPA|/jɛv/|lang=hy}}
+| colspan="2" | {{transliteration|hy|ew}}
+| -{{ref|i|9}}
+|}
+
+*Listen to the pronunciation of the letters in {{Audio|Armenian alphabet (Eastern Armenian).ogg|Eastern Armenian}} or in {{Audio|Armenian alphabet (Western Armenian).ogg|Western Armenian}}.
+
+{{anchor|Chart notes}}'''Notes:'''
+#{{note|a}}Primarily used in classical orthography; after the reform used word-initially and in some compound words.
+#{{note|b}}Except in {{Lang|hy|ով}} {{IPA|/ɔv/|lang=hy}} 'who' and {{Lang|hy|ովքեր}} {{IPA|/ɔvkʰer/|lang=hy}} 'those (people)' in Eastern Armenian.
+#{{note|c}}[[Iranian Armenians]] (who speak a subbranch of Eastern Armenian) pronounce the sound represented by this letter with a retracted tongue body {{IPA|[ɹ̠]}}: post-alveolar rather than alveolar. {{Citation needed|date=January 2019}}
+#{{note|d}}In classical orthography, {{Lang|hy|ու}} and {{Lang|hy|և}} are considered a digraph ({{Lang|hy|ո}} + {{Lang|hy|ւ}}) and a ligature ({{Lang|hy|ե}} + {{Lang|hy|ւ}}), respectively. In reformed orthography, they are separate letters of the alphabet: {{Lang|hy|և}} is the 37th letter of the alphabet, and {{Lang|hy|ու}} is the 34th letter, taking the place of {{Lang|hy|ւ}}.
+#{{note|e}}In reformed orthography, the letter {{Lang|hy|ւ}} appears only as a component of {{Lang|hy|ու}}. In classical orthography, the letter usually represents {{IPA|/v/}}, except in the digraph {{Lang|hy|իւ}} {{IPA|/ju/}}. The spelling reform in Soviet Armenia replaced {{Lang|hy|իւ}} with the trigraph {{Lang|hy|յու}}.
+#{{note|f}}Except in the present tense of 'to be': {{Lang|hy|եմ}} {{IPA|/ɛm/|lang=hy}} 'I am', {{Lang|hy|ես}} {{IPA|/ɛs/|lang=hy}} 'you are (sing.)', {{Lang|hy|ենք}} {{IPA|/ɛnkʰ/|lang=hy}} 'we are', {{Lang|hy|եք}} {{IPA|/ɛkʰ/|lang=hy}} 'you are (pl.)', {{Lang|hy|են}} {{IPA|/ɛn/|lang=hy}} 'they are'.
+#{{note|g}}The letter {{Lang|hy|ը}} is generally used only at the start or end of a word, and so the sound {{IPA|/ə/}} is typically unwritten between consonants. One exception is {{Lang|hy|մըն}} {{IPA|/mən/|lang=hy}} (Western Armenian indefinite article, when followed by a word beginning with a vowel), e.g., {{Lang|hy|մէյ մըն ալ}} {{IPA|/mɛj mən ɑl/|lang=hy}} 'one more time'.
+#{{note|h}}The ligature {{Lang|hy|և}} has no majuscule form; when capitalized it is written as two letters {{Lang|hy|Եւ}} (classical) or {{Lang|hy|Եվ}} (reformed).
+#{{note|i}}By the time this lowercase was included (Armenian alphabet reform of 1922–24 in the Soviet Union) in the alphabet, counting was conducted with Arabic numbers.<ref>{{Cite web |title=Армянское письмо |url=http://tapemark.narod.ru/les/045a.html |access-date=2024-02-09 |website=tapemark.narod.ru}}</ref><ref>{{Cite web |title=MELA ConC - Numerals & Dates |url=https://sites.google.com/princeton.edu/mela-conc/cataloging-manuals/armenian/armnum |access-date=2024-02-09 |website=sites.google.com |language=en-US}}</ref> Numbers over 9999 were achieved by putting a line over smaller letters-numerals
+
+===Handwritten forms===
+In handwriting, the upper- and lower-case letters look more similar than they do in print, and the stroke order is more apparent.
+
+{{Gallery
+|File:ա handwritten.svg | {{Lang|hy|ա}}
+|File:բ handwritten.svg | {{Lang|hy|բ}}
+|File:գ handwritten.svg | {{Lang|hy|գ}}
+|File:դ handwritten.svg | {{Lang|hy|դ}}
+|File:ե handwritten.svg | {{Lang|hy|ե}}
+|File:զ handwritten.svg | {{Lang|hy|զ}}
+|File:է handwritten.svg | {{Lang|hy|է}}
+|File:ը handwritten.svg | {{Lang|hy|ը}}
+|File:թ handwritten.svg | {{Lang|hy|թ}}
+|File:ժ handwritten.svg | {{Lang|hy|ժ}}
+|File:ի handwritten.svg | {{Lang|hy|ի}}
+|File:լ handwritten.svg | {{Lang|hy|լ}}
+|File:խ handwritten.svg | {{Lang|hy|խ}}
+|File:ծ handwritten.svg | {{Lang|hy|ծ}}
+|File:կ handwritten.svg | {{Lang|hy|կ}}
+|File:հ handwritten.svg | {{Lang|hy|հ}}
+|File:ձ handwritten.svg | {{Lang|hy|ձ}}
+|File:ղ handwritten.svg | {{Lang|hy|ղ}}
+|File:ճ handwritten.svg | {{Lang|hy|ճ}}
+|File:մ handwritten.svg | {{Lang|hy|մ}}
+|File:յ handwritten.svg | {{Lang|hy|յ}}
+|File:ն handwritten.svg | {{Lang|hy|ն}}
+|File:շ handwritten.svg | {{Lang|hy|շ}}
+|File:ո handwritten.svg | {{Lang|hy|ո}}
+|File:չ handwritten.svg | {{Lang|hy|չ}}
+|File:պ handwritten.svg | {{Lang|hy|պ}}
+|File:ջ handwritten.svg | {{Lang|hy|ջ}}
+|File:ռ handwritten.svg | {{Lang|hy|ռ}}
+|File:ս handwritten.svg | {{Lang|hy|ս}}
+|File:վ handwritten.svg | {{Lang|hy|վ}}
+|File:տ handwritten.svg | {{Lang|hy|տ}}
+|File:ր handwritten.svg | {{Lang|hy|ր}}
+|File:ց handwritten.svg | {{Lang|hy|ց}}
+<!--|File:ւ handwritten.svg | ւ-->
+|File:Ու handwritten.svg | {{Lang|hy|ու}}
+|File:փ handwritten.svg | {{Lang|hy|փ}}
+|File:ք handwritten.svg | {{Lang|hy|ք}}
+|File:օ handwritten.svg | {{Lang|hy|օ}}
+|File:ֆ handwritten.svg | {{Lang|hy|ֆ}}
+|File:և handwritten.svg | {{Lang|hy|և}}
+}}
+
+===Ligatures===
+Ancient Armenian manuscripts used many [[Typographic ligature|ligature]]s. a commonly used ligature is {{Lang|hy|և}} (composed of {{Lang|hy|ե}} and {{Lang|hy|ւ}}). Armenian print typefaces also include many ligatures. In the new orthography, the character {{Lang|hy|և}} is no longer a typographical ligature, but a distinct letter, placed in the new alphabetic sequence, before "o".
+
+==Punctuation==
+[[File:Ած՟.svg|thumb|upright=0.9|The word [[wikt:աստուած|Աստուած]] {{Transliteration|hy|Astuac}} 'God' abbreviated. Only the first and last letters, and the abbreviation mark ⟨՟⟩, are written.]]
+
+=== Armenian punctuation marks outside a word ===
+* <big style="font-size:133%;line-height:normal">«&nbsp;»</big>{{snd}}The {{Transliteration|hy|čakertner}} are used as ordinary [[quotation mark]]s. They are placed like French [[guillemet]]s, just above the baseline (preferably vertically centered in the middle of the x-height of Armenian lowercase letters). They can be angled or rounded. The computer-induced use of English-style single or double quotes (vertical, diagonal or curly forms, placed above the baseline near the M-height of uppercase or tall lowercase letters and at the same level as accents) is strongly discouraged in Armenian as they look too much like other{{snd}}unrelated{{snd}}Armenian punctuation marks.
+* <big style="font-size:133%;line-height:normal">,</big>{{snd}}The {{Transliteration|hy|storaket}} is used as a [[comma]], and placed as in English.
+* <big style="font-size:133%;line-height:normal">՝</big>{{snd}}The {{Transliteration|hy|but'}} (which looks like a comma-shaped reversed apostrophe) is used as a short stop, and placed in the same manner as the [[semicolon (punctuation)|semicolon]] to indicate a pause that is longer than that of a comma, but shorter than that of a colon; in many texts it is replaced by the single opening single quote (a 6-shaped, or mirrored 9-shaped, or descending-wedge-shaped elevated comma), or by a spacing grave accent.
+* <big style="font-size:133%;line-height:normal">․</big>{{snd}}The {{Transliteration|hy|mijaket}} (whose single dot on the baseline looks like a Latin full stop) is used like an ordinary [[colon (punctuation)|colon]], mainly to separate two closely related (but still independent) clauses, or when a long list of items follows.
+* <big style="font-size:133%;line-height:normal">[[wikt:։|։]]</big>{{snd}}The {{Transliteration|hy|verjaket}} (whose vertically stacked two dots look like a Latin colon) is used as the ordinary [[full stop]], and placed at the end of the sentence (many texts in Armenian replace the {{Transliteration|hy|verjaket}} by the Latin colon as the difference is almost invisible at low resolution for normal texts, but the difference may be visible in headings and titles as the dots are often thicker to match the same optical weight as vertical strokes of letters, the dots filling the common x-height of Armenian letters).
+{{anchor|Punctuation on vowels}}<!-- linked from [[Acute accent#Emphasis]] -->
+The following Armenian punctuation marks are placed above and slightly to the right of the vowel whose tone is modified in order to reflect intonation:
+* <big style="font-size:133%;line-height:normal">[[wikt:՜|՜]]</big>{{snd}}The {{Transliteration|hy|batsaganchakan nshan}} (which looks like a diagonally rising [[tilde]]) is used as an [[exclamation mark]].
+* <big style="font-size:133%;line-height:normal">[[wikt:՛|՛]]</big>{{snd}}The {{Transliteration|hy|shesht}} (which looks like a non-spacing [[acute accent]]) is used as an [[Emphasis (typography)#Punctuation marks|emphasis mark]].
+* <big style="font-size:133%;line-height:normal">[[wikt:՞|՞]]</big>{{snd}}The {{Transliteration|hy|hartsakan nshan}} is used as a [[question mark]].
+
+For an example of these, see the following sentence, with the {{Transliteration|hy|shesht}} making emphasis in the [[vocative case|vocative]] in the last word and the {{Transliteration|hy|hartsakan nshan}} in the first, with the {{Transliteration|hy|verjaket}} as a full stop at the end:
+: {{lang|hy|Ի{{red|՞}}նչ եք անում, տիկի{{red|՛}}ն:}}
+: {{transl|hy|I{{small|{{red|?}}}}nčʻ ekʻ anum, tik{{red|í}}n:}}
+: What are you doing, ''ma'am''?
+
+=== Armenian punctuation marks used inside a word ===
+* <big style="font-size:133%;line-height:normal">[[wikt:֊|֊]]</big>{{nbsp}}{{nbsp}}{{snd}}The {{Transliteration|hy|yent'amna}} is used as the ordinary Armenian [[hyphen]].
+* <big style="font-size:133%;line-height:normal">[[wikt:՟|՟]]</big>{{nbsp}}{{snd}}The ''[[wikt:պատիվ|{{Transliteration|hy|pativ}}]]'' used to be used as an Armenian [[abbreviation]] mark, and was placed on top of an abbreviated word to indicate that it was abbreviated. It is now obsolete.
+* <big style="font-size:133%;line-height:normal">՚</big>{{snd}}The {{Transliteration|hy|apat'arts}} is used as a spacing apostrophe (which looks either like a vertical stick or wedge pointing down, or like an elevated 9-shaped comma, or like a small, superscript left-to-right closing parenthesis or half ring) in Western Armenian only, to indicate elision of a vowel, usually {{IPA|/ə/}}.
+
+==Transliteration==
+{{Main|Romanization of Armenian}}[[ISO 9985]] (1996) transliterates the Armenian alphabet for modern Armenian as follows:
+{|class="wikitable" style="line-height:normal;text-align:center"
+|-style="font-size:1.4em"
+!ա ||բ ||գ ||դ ||ե ||զ ||է ||ը ||թ ||ժ ||ի ||լ ||խ ||ծ ||կ ||հ ||ձ ||ղ ||ճ ||մ
+|-style="font-size:1.2em"
+|a ||b ||g ||d ||e ||z ||ē ||ë ||ṫ ||ž ||i ||l ||x ||ç ||k ||h ||j ||ġ ||č ||m 
+|-style="font-size:1.4em"
+!յ ||ն||շ ||ո ||չ ||պ ||ջ ||ռ ||ս ||վ ||տ ||ր ||ց ||ւ ||փ ||ք ||օ ||ֆ ||ու ||և
+|-style="font-size:1.2em"<!-- Note: the character following the consonants is U+02BC (ʼ), the "modifier letter apostrophe", that looks like an apostrophe (right single quotation mark) but is considered a letter -->
+|y ||n ||š ||o ||ċ ||p ||ǰ ||ṙ ||s ||v ||t ||r ||ć ||w ||ṕ ||ḱ ||ò ||f ||ow ||ew
+|}
+
+In the linguistic literature on Classical Armenian, slightly different systems are in use.
+{|class="wikitable" style="line-height:normal;text-align:center"
+|-style="font-size:1.4em"
+!ա ||բ ||գ ||դ ||ե ||զ ||է ||ը ||թ ||ժ ||ի ||լ ||խ ||ծ ||կ ||հ ||ձ ||ղ ||ճ ||մ
+|-style="font-size:1.2em"
+|a ||b ||g ||d ||e ||z ||ê ||ə ||tʽ ||ž ||i ||l ||x ||c ||k ||h ||j ||ł ||č ||m 
+|-style="font-size:1.4em"
+!յ ||ն||շ ||ո ||չ ||պ ||ջ ||ռ ||ս ||վ ||տ ||ր ||ց ||ւ ||փ ||ք ||օ ||եւ||ու ||ֆ
+|-style="font-size:1.2em"<!-- Note: the character following the consonants was incorrectly U+1FFE (῾), a Greek spacing rude spirit, which is definitely not Latin and placed too high! It has been replaced by U+02BD (ʽ), the "modifier letter reversed comma", that looks like a reversed curly apostrophe/comma but is considered a letter -->
+|y ||n ||š ||o ||čʽ ||p ||ǰ ||ṙ ||s ||v ||t ||r ||cʽ ||w ||pʽ ||kʽ ||ô ||ew ||u ||f
+|}
+
+==Use for other languages==
+{{see also|Armeno-Turkish alphabet}}
+[[File:GrecoArmenianPapyrus.jpg|thumb|[[Armeno-Greek papyrus]], 5-6th century]]
+For about 250 years, from the early 18th century until around 1950, more than 2,000 books in the Turkish language were printed using the Armenian alphabet. Not only did Armenians read this Turkish in Armenian script, so did the non-Armenian (including the Ottoman Turkish) elite. An American correspondent in Marash in 1864 calls the alphabet "Armeno-Turkish", describing it as consisting of 31 Armenian letters and "infinitely superior" to the [[Ottoman Turkish alphabet|Arabic]] or [[Karamanli Turkish|Greek alphabets]] for rendering Turkish.<ref>{{Cite journal |last=Pratt |first=Andrew T. |title=On the Armeno-Turkish Alphabet |journal=Journal of the American Oriental Society |date=1866 |volume=8 |pages=374–376|doi=10.2307/592244 |jstor=592244 }}</ref> This Armenian script was used alongside the Arabic script on official documents of the Ottoman Empire written in Ottoman Turkish. For instance, the first [[novel]] to be written in Turkish in the Ottoman Empire was [[Vartan Pasha|Hovsep Vartanian]]'s 1851 ''[[Akabi Hikayesi]]'' (Akabi's Story), written in the Armenian script. When the Armenian [[Duzian family]] managed the Ottoman mint during the reign of Abdülmecid I, they kept records in Armenian script but in the Turkish language.{{Citation needed|date=May 2010}} From the middle of the 19th century, the Armenian alphabet was also used for books written in the Kurdish language in the Ottoman Empire.
+
+The Armenian script was also used by Turkish-speaking assimilated Armenians between the 1840s and 1890s.<ref>See Bedross Der Matossian, "The Development of Armeno-Turkish (''Hayatar T'rk'erēn'') in the 19th Century Ottoman Empire: Marking and Crossing Ethnoreligious Boundaries," ''Intellectual History of the Islamicate World'' (2019): pp. 1-34.</ref> Constantinople was the main center of Armenian-scripted Turkish press. This portion of the Armenian press declined in the early twentieth century but continued until the [[Armenian genocide]] of 1915.<ref>{{Cite journal |last=Kharatian |first=A. a. |date=1995 |title=Հայատառ թուրքերեն մամուլը (1840—1890–ական թթ.) [Armenian periodicals in Turkish letters (1840-1890s)] |url=http://lraber.asj-oa.am/2731/ |url-status=dead |journal=[[Lraber Hasarakakan Gitutyunneri]] |language=hy |issue=2 |pages=72–85 |archive-url=https://web.archive.org/web/20150226064954/http://lraber.asj-oa.am/2731/ |archive-date=2015-02-26 |access-date=2015-02-26}}</ref>
+
+In areas inhabited by both Armenians and [[Assyrian people|Assyrians]], Syriac texts were occasionally written in the Armenian script, although the opposite phenomenon, Armenian texts written in [[Syriac alphabet|Serto]], the Western Syriac script, is more common.<ref>Ester Petrosian, "Manuscript Cairo Syriac 11," Matenadaran Bulletin 24, p. 70.</ref>
+
+The [[Kipchak language|Kipchak]]-speaking Armenian Christians of [[Podolia]] and [[Galicia (Central Europe)|Galicia]] used an Armenian alphabet to produce an extensive amount of literature between 1524 and 1669.<ref>{{in lang|ru}} [http://www.unesco.kz/qypchaq/Turkic_Languages_Rus.htm Qypchaq languages]. ''Unesco.kz''</ref>
+
+The Armenian script, along with the [[Georgian script|Georgian]], was used by the poet [[Sayat-Nova]] in his Armenian poems.<ref>{{Cite book |last=Dowsett |first=Charles James Frank |title=Sayatʿ-Nova: an 18th-century troubadour a biographical and literary study |date=1997 |publisher=Peeters |isbn=978-90-6831-795-4 |series=Corpus scriptorum Christianorum Orientalium |location=Lovanii |page=xv}}</ref>
+
+An Armenian alphabet was an official script for the [[Kurdish language]] in 1921–1928 in [[Soviet Armenia]].<ref>{{Cite web |script-title=ru:Курдский язык |url=http://www.krugosvet.ru/enc/gumanitarnye_nauki/lingvistika/KURDSKI_YAZIK.html |publisher=[[Krugosvet]] |language=ru |quote=...в Армении на основе русского алфавита с 1946 (с 1921 на основе армянской графики, с 1929 на основе латиницы).}}</ref>
+
+The [[Armeno-Tats]], who have historically spoken [[Tat language (Caucasus)|Tat]], wrote their language in the Armenian alphabet.<ref>Armen Hakobian. ''Characteristics of the Identity of Tat-Speaking Armenians in the Past Hundred Years and Modern Tendencies of Its Expression''.</ref>
+
+==Character encodings==
+{{Main|Armenian (Unicode block)}}
+
+The Armenian alphabet was added to the Unicode Standard in version 1.0, in October 1991. It is assigned the range U+0530–058F. Five Armenian [[typographic ligature|ligatures]] are encoded in the "Alphabetic presentation forms" block (code point range U+FB13–FB17).
+
+On 15 June 2011, the Unicode Technical Committee (UTC) accepted the [[Armenian dram sign]] for inclusion in the future versions of the Unicode Standard and assigned a code for the sign{{snd}}U+058F (֏). In 2012 the sign was finally adopted in the Armenian block of ISO and Unicode international standards.<ref>{{Cite web |title=Unicode 6.1 Versioned Charts Index |url=https://www.unicode.org/charts/PDF/Unicode-6.1/ |publisher=unicode.org}}</ref>
+
+The [[Armenian eternity sign]], since 2013, is assigned Unicode U+058D (֍{{snd}}RIGHT-FACING ARMENIAN ETERNITY SIGN) and, for its left-facing variant. u+058E (֎{{snd}}LEFT-FACING ARMENIAN ETERNITY SIGN).<ref>{{Cite web |title=ISO/IEC 10646:2012/Amd.1: 2013 (E) |url=http://std.dkuug.dk/jtc1/sc2/wg2/docs/n4387.pdf}}</ref>
+
+{{Unicode chart Armenian}}
+{{Unicode chart Alphabetic Presentation Forms|subset=armenian}}
+
+==Keyboard layouts==
+The [[phonetic keyboard layout]] is the most common Armenian keyboard layout, enjoying broad support across modern operating systems. Because there are more characters in the Armenian alphabet (39) than in Latin (26), some Armenian characters appear on non-alphabetic keys on a conventional QWERTY keyboard (for example, {{Lang|hy|շ}} maps to '','').
+
+[[File:Keyboard Layout Armenian.png|thumb|center|upright=3.0|[[Armenian language|Armenian]] phonetic keyboard layout.]]
+
+The phonetic layout is not very performant, due to the letter frequency difference between the Armenian and English languages, although it is easier to learn and use.<ref>{{Cite web |title=Armenian vs English: Letter frequency distribution |url=https://armenianchat.net/blog/armenian-letter-frequency/ |website=ArmenianChat.Net}}</ref>
+
+==Gallery==
+===Armenian scripts in various churches===
+<gallery mode="packed" heights="150px">
+File:Avan Cathedral bilingual inscription.jpg|Bilingual Armenian-Greek inscription now kept at the [[History Museum of Armenia]], 6th century
+File:Armenian Sundial Zvartnots Armenia 7th c.jpg|Sundial in [[Zvartnots Cathedral|Zvartnots]], 7th century
+File:2023.03.26 Sanahin 121.jpg|[[Sanahin Monastery]], 10th century
+File:Ani, rovine, cattedrale, 989-1064, esterno, portale fiancata dx 08 iscrizione.jpg|[[Ani Cathedral]], 10th century
+File:2014 Prowincja Szirak, Klasztor Marmaszen (27).jpg|[[Marmashen Monastery]], 11th century
+File:Gavit tympanum.jpg|[[Goshavank]], 12th century
+File:Hayravank Lintel.JPG|[[Hayravank]], 12th century
+File:Haghartsin 123.jpg|[[Haghartsin Monastery]], 13th century
+File:Noravank monastery, 13th-century (43).jpg|[[Noravank]], 13th century
+File:2014 Prowincja Kotajk, Klasztor Geghard (06).jpg|Inscription from [[Geghard Monastery]]
+File:Inscription on gavit door.JPG|Inscription from [[Kecharis Monastery]]
+File:Makaravanq Monastery 09.jpg|Inscription from [[Makaravank Monastery]]
+File:Moses of Chorene (manuscript X-XIth centuries).jpg|Armenian manuscript of the 10th or 11th century. [[History of Armenia (book)|History of Armenia]] of [[Movses Khorenatsi]]
+</gallery>
+
+===Armenian scripts in various gospels and manuscripts===
+<gallery mode="packed" heights="150px">
+File:Armenian manuscript fragment (5th century).jpg|Page from 5th century Manuscript
+File:GrecoArmenianPapyrus1.jpg|Armenian Greek inscription 5-7th centuryes
+File:Լազարեան ինստիտուտի Աւետարան, 887թ, 73.jpg|Armenian Manuscript, 887
+File:Աւետարան (գրիչ Յովհաննէս), 974թ, 1.jpg|Armenian Manuscript, 974
+File:Աւետարան (Ահարովն կրօնաւոր), 1099թ, 273.jpg|Armenian Manuscript, 1099
+File:Armenian document (1198) (2).jpg|List of invitees to the enthronement of King [[Leo I, King of Armenia|Levon I]], 1198
+File:Levon III document.jpg|Document of [[Leo II, King of Armenia|Leo II of Armenia]] connoting the granting of special privileges and rights to Genoese merchant community, 1288
+File:Աստուածաշունչ (Ստեփանոս), 1318թ, 103.jpg|Armenian Manuscript, 1318
+File:Biblioteca Apostolica Vaticana, Vat. Arm. 7, f. 31v.jpg|Page of a letter from [[Gagik I Artsruni|King Gagik I]] of [[Kingdom of Vaspurakan|Vaspurakan]] to [[Romanos I Lekapenos]], 14th-century manuscript ([[Vatican Apostolic Library]])
+File:ՄՄ 2335, 7ա.png|Armenian linguistic manuscript, 1476
+File:Armenian manuscript 1544.jpg|Manuscript page of the ''[[Alexander Romance]]'', 1544
+File:Աբրո Բագրատունու Աստուածաշունչը, 1647թ, 4.jpg|Armenian Manuscript, 1647
+File:ArmenianGrammatica.jpg|''Armenian grammar'', 1675
+File:Letter of Armenian catholicos Khachatur and Armenian clerics to Louis XIV of France.jpg|Letter from Catholicos Khachatur to [[Louis XIV]], 1672 ([[Bibliothèque nationale de France]])
+File:Սիմէոն վրդ. Ջուղայեցւոյ Քերականութիւն.jpeg|Page from Simeon Jughaetsi gospel, 18th century
+File:Բառգիրք հայկազեան լեզուի.jpg|Cover of the book ''Dictionary of the Armenian Language'' by [[Mkhitar Sebastatsi]], published in 1769, [[Venice]]
+</gallery>
+
+===Other uses===
+<gallery>
+File:Armenian Alphabet.jpg|The monument to the Armenian alphabet at the [[Melkonian Educational Institute]] in [[Nicosia]], [[Cyprus]]
+File:Լեվոն Ա Մեծագործ.jpg|Gold Coin of King [[Leo I, King of Armenia|Leo I]] of [[Armenian Kingdom of Cilicia|Cilicia]]
+File:Լեվոն Ա.jpg|Silver Coin of King [[Leo I, King of Armenia|Leo I]] of [[Armenian Kingdom of Cilicia|Cilicia]]
+File:Wikipedia puzzle globe on the wall of the Wikimedia Foundation, 2010-10-26.jpg|The Armenian letter {{angbr|Վ}} is on the [[Logo of Wikipedia|Wikipedia logo]] (up left)
+File:Bibliotheca Alexandrina -- Wall detail 2.jpg|Armenian script in facade of [[Bibliotheca Alexandrina]] (right down) with ''[[Ben (Armenian letter)|Բ]] [[Tsa (Armenian letter)|Ծ]] [[Yech (Armenian letter)|Ե]] [[Gim (Armenian letter)|Գ]] [[Ho (Armenian letter)|Հ]] [[Ini (Armenian letter)|Ի]] [[Dza (Armenian letter)|Ձ]]''
+</gallery>
+
+== See also ==
+{{Portal|Language}}
+<!-- New links in alphabetical order please -->
+* [[Armenian braille]]
+* [[Armenian calendar]]
+* [[Armenian numerals]]
+* [[Classical Armenian orthography]]
+* [[Reformed Armenian orthography]]
+* [[Romanization of Armenian]] (includes [[ISO 9985]])
+
+== Notes ==
+{{Notelist}}
+
+== References ==
+{{Reflist|refs=
+<ref name="omniglot">{{Cite web |last=Simon Ager |year=2010 |title=Armenian alphabet |url=http://www.omniglot.com/writing/armenian.htm |url-status=live |archive-url=https://web.archive.org/web/20100102062010/http://omniglot.com/writing/armenian.htm |archive-date=2 January 2010 |access-date=2010-01-02 |website=Omniglot: writing systems & languages of the world}}</ref>
+}}
+
+== External links ==
+* [https://բառարան.հայ բառարան.հայ]{{snd}}Armenian dictionary.
+* [https://360.aua.am/explore-armenia/monument-of-armenian-alphabet/ Monument of Armenian Alphabet]
+
+'''Armenian Transliteration'''
+* [http://www.Hayadar.com/ English / French script to Armenian Transliteration] Hayadar.com{{snd}}Online, Latin to Armenian transliteration engine.
+* [http://am.translit.cc/ Latin-Armenian Transliteration] Converts Latin letters into Armenian and vice versa. Supports multiple transliteration tables and spell checking.
+* [http://transliteration.eki.ee/pdf/Armenian.pdf Transliteration schemes for the Armenian alphabet] (transliteration.eki.ee)
+
+'''Armenian Orthography converters'''
+* [http://www.nayiri.com/ Nayiri.com] (integrated orthography converter: reformed to classical)
+
+{{Armenia topics}}
+{{Intangible Cultural Heritage in Armenia}}
+{{List of writing systems}}
+{{Authority control}}
+
+{{DEFAULTSORT:Armenian Alphabet}}
+[[Category:Armenian alphabet| ]]
+[[Category:4th century in Armenia]]
+[[Category:Keyboard layouts]]
+[[Category:Masterpieces of the Oral and Intangible Heritage of Humanity]]
+[[Category:Caucasian scripts]]
+[[Category:Greek alphabet]]
+[[Category:Intangible cultural heritage of Armenia]]
