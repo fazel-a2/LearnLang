@@ -183,11 +183,11 @@ export default function StudyScreen() {
             <Text style={[styles.word, { color: theme.text }, language.rtl && styles.rtl]}>
               {card.word}
             </Text>
+            {card.roman ? (
+              <Text style={[styles.roman, { color: theme.textSecondary }]}>{card.roman}</Text>
+            ) : null}
             {revealed ? (
               <View style={styles.revealed}>
-                {card.roman ? (
-                  <Text style={[styles.roman, { color: theme.textSecondary }]}>{card.roman}</Text>
-                ) : null}
                 <Text style={[styles.meaning, { color: theme.text }]}>{card.meaning}</Text>
               </View>
             ) : (
@@ -318,7 +318,7 @@ const styles = StyleSheet.create({
   word: { fontSize: 48, fontWeight: '700', textAlign: 'center' },
   rtl: { writingDirection: 'rtl' },
   revealed: { marginTop: Spacing.four, alignItems: 'center' },
-  roman: { fontSize: 16, marginBottom: Spacing.one },
+  roman: { fontSize: 16, marginTop: Spacing.one },
   meaning: { fontSize: 24, fontWeight: '500', textAlign: 'center' },
   hint: { fontSize: 14, marginTop: Spacing.four },
   waiting: { fontSize: 18, textAlign: 'center', lineHeight: 28 },
